@@ -1,0 +1,14 @@
+/home/mghdaigu/Desktop/drawing/target/debug/deps/libpng-bc40527c93857820.rmeta: /home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/lib.rs /home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/chunk.rs /home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/crc.rs /home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/decoder/mod.rs /home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/decoder/stream.rs /home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/encoder.rs /home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/filter.rs /home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/traits.rs /home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/common.rs /home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/utils.rs
+
+/home/mghdaigu/Desktop/drawing/target/debug/deps/png-bc40527c93857820.d: /home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/lib.rs /home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/chunk.rs /home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/crc.rs /home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/decoder/mod.rs /home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/decoder/stream.rs /home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/encoder.rs /home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/filter.rs /home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/traits.rs /home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/common.rs /home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/utils.rs
+
+/home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/lib.rs:
+/home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/chunk.rs:
+/home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/crc.rs:
+/home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/decoder/mod.rs:
+/home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/decoder/stream.rs:
+/home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/encoder.rs:
+/home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/filter.rs:
+/home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/traits.rs:
+/home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/common.rs:
+/home/mghdaigu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.5.2/src/utils.rs:
